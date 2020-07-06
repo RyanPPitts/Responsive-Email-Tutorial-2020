@@ -1,6 +1,6 @@
 # Responsive-Email-Tutorial
 
-Responsive Email Tutorial from CodingPhase.com. Paid course outlining responsive HTML email methods and best practices.
+Responsive Email Tutorial from CodingPhase.com. Paid course outlining responsive HTML email methods and best practices. Interested in expanding email html skills.
 
 # Resources
 
